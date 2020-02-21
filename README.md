@@ -7,9 +7,7 @@ We tried to Improving online shopping experiences for customers and reducing cos
 
 
 
-Conclusion
-
-●	We find out some characteristics of the customers’ purchasing habits on Modcloth. We suggest Modcloth expand their inventory of popular items and popular sizes.
-
-●	We build a recommendation system using text mining and machine learning including size recommendation and item recommendation. Customers can be easier to find the fit item and fit size for themselves which will improve their experience at Modcloth.
+## Conclusion
+- We find out some characteristics of the customers’ purchasing habits on Modcloth. We suggest Modcloth expand their inventory of popular items and popular sizes.
+- We build a recommendation system using text mining and machine learning including size recommendation and item recommendation. Customers can be easier to find the fit item and fit size for themselves which will improve their experience at Modcloth.
 
